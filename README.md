@@ -1,5 +1,4 @@
-# 0xHackZKIdeas
-Repo for Best ZK Ideas contest, with Hermez Network. In 0xHack hackathon.
+Repo for Best ZK Ideas hackathon, with Hermez Network. In 0xHack hackathon.
 
 # HGT (Hermez Governance Token)
 
