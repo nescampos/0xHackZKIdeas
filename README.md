@@ -18,7 +18,7 @@ The value will obviously be variable, like HEZ, but it should be a proportion of
 
 ## How will it work?
 
-1. The operation of Hermez network will not be alternated, it is maintained until now, until the process of the proof of donation for the creation of new blocks.
+1. The operation of Hermez network will not be alternated, it is maintained until now, until the process of the creation of new blocks.
 2. Then, the HGT amount will be automatically calculated according to the following variables: Amount in the donation test (40% weighting), number of transactions (30%), speed of execution of the block (20%) and gas consumed ( 10%).
 3. The block is generated, validated and ready on the Ethereum chain.
 4. Finally, the HGT amount is sent to the creator of the block.
